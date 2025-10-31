@@ -117,7 +117,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">8</td>
     <td align="center" rowspan="2">1.1.3</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2015-08-08</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.1.3/%5BGP%5D%20Standoff%20Multiplayer%20%281.1.3%29.apk">APK</a></td>
     <td align="center">N/A</td>
@@ -131,7 +131,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">12</td>
     <td align="center" rowspan="2">1.2.0</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2015-09-11</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.2.0/%5BGP%5D%20Standoff%20Multiplayer%20%281.2.0%29.zip">APK</a></td>
     <td align="center">N/A</td>
@@ -145,7 +145,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">14</td>
     <td align="center" rowspan="2">1.2.2</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2015-09-16</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.2.2/%5BGP%5D%20Standoff%20Multiplayer%20%281.2.2%29.apk">APK</a></td>
     <td align="center">N/A</td>
@@ -212,7 +212,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">21</td>
     <td align="center" rowspan="2">1.5.1</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2016-01-16</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.5.1/%5BGP%5D%20Standoff%20Multiplayer%20%281.5.1%29.apk">APK</a></td>
     <td align="center">N/A</td>
@@ -252,7 +252,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">24</td>
     <td align="center" rowspan="2">1.6.2</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2016-03-11</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.6.2/%5BGP%5D%20Standoff%20Multiplayer%20%281.6.2%29.zip">APK</a></td>
     <td align="center">N/A</td>
@@ -627,7 +627,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">59</td>
     <td align="center" rowspan="2">1.18.0</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2016-10-15</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.18.0/%5BGP%5D%20Standoff%20Multiplayer%20%281.18.0%29.apk">APK</a></td>
     <td align="center">N/A</td>
@@ -683,7 +683,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">63</td>
     <td align="center" rowspan="2">1.19.2</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2016-11-15</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.19.2/%5BGP%5D%20Standoff%20Multiplayer%20%281.19.2%29.zip">APK</a></td>
     <td align="center">N/A</td>
@@ -725,7 +725,7 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" rowspan="2">68</td>
     <td align="center" rowspan="2">1.21.1</td>
     <td align="center" rowspan="2"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2"><i>OBB missing</i></td>
     <td align="center" rowspan="2">2017-06-04</td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-multiplayer-1.21.1/%5BGP%5D%20Standoff%20Multiplayer%20%281.21.1%29.zip">APK</a></td>
     <td align="center">N/A</td>
