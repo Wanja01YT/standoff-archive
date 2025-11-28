@@ -154,6 +154,20 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-multiplayer-1.2.2">Archive.org</a></td>
   </tr>
 
+  <!--1.3.0RC8-->
+  <tr>
+    <td align="center" rowspan="2">15</td>
+    <td align="center" rowspan="2">1.3.0RC8</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2015-12-08</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/standoff-1.3.0-rc-8/Standoff-1.3.0RC8.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/standoff-1.3.0-rc-8">Archive.org<a></td>
+  </tr>
+
+
    <!--1.4.1-->
   <tr>
     <td align="center" rowspan="2">-</td>
