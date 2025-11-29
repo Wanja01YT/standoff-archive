@@ -126,6 +126,20 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-multiplayer-1.1.3">Archive.org</a></td>
   </tr>
 
+  <!--1.2.0-RC1-->
+  <tr>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2">1.2.0-RC1</td>
+    <td align="center" rowspan="2"><span style="color: #DC624D;">Lost</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2015-08-26</td>
+    <td align="center" colspan="2"><i>N/A</i></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><i>N/A</i></td>
+  </tr>
+
+
   <!--1.2.0-->
   <tr>
     <td align="center" rowspan="2">12</td>
@@ -165,6 +179,19 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/standoff-1.3.0-rc-8">Archive.org<a></td>
+  </tr>
+
+  <!--1.3.0RC9-->
+  <tr>
+    <td align="center" rowspan="2">15</td>
+    <td align="center" rowspan="2">1.3.0RC9</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2015-12-08</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/standoff-1.3.0-rc-9/Standoff-1.3.0RC9.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/standoff-1.3.0-rc-9">Archive.org<a></td>
   </tr>
 
 
@@ -316,6 +343,20 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-multiplayer-1.7.3">Archive.org<a></td>
   </tr>
 
+  <!--1.7.4Dev2-->
+  <tr>
+    <td align="center" rowspan="2">29</td>
+    <td align="center" rowspan="2">1.7.4Dev2</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2016-04-19</td>
+   <td align="center" colspan="2"><a href="https://archive.org/download/standoff-1.7.4dev-2/standoff-1.7.4.Dev2.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/standoff-1.7.4dev-2">Archive.org<a></td>
+  </tr>
+
+
   <!--1.7.4-->
   <tr>
     <td align="center" rowspan="2">29</td>
@@ -369,6 +410,19 @@ To install any old version, place the OBB file in `Android/obb/com.alanapps.stan
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/standoff-1.9.-dev-2">Archive.org<a></td>
+  </tr>
+
+  <!--1.9.0-->
+  <tr>
+    <td align="center" rowspan="2">33</td>
+    <td align="center" rowspan="2">1.9.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2016-06-15</td>
+   <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-multiplayer-1.9.0/standoff.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-multiplayer-1.9.0">Archive.org<a></td>
   </tr>
 
   <!--1.8.1-->
